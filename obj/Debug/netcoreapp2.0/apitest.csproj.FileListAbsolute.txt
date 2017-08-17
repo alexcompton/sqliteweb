@@ -1,0 +1,10 @@
+C:\Users\alexc\Desktop\apitest\bin\Debug\netcoreapp2.0\apitest.deps.json
+C:\Users\alexc\Desktop\apitest\bin\Debug\netcoreapp2.0\apitest.runtimeconfig.json
+C:\Users\alexc\Desktop\apitest\bin\Debug\netcoreapp2.0\apitest.runtimeconfig.dev.json
+C:\Users\alexc\Desktop\apitest\bin\Debug\netcoreapp2.0\apitest.dll
+C:\Users\alexc\Desktop\apitest\bin\Debug\netcoreapp2.0\apitest.pdb
+C:\Users\alexc\Desktop\apitest\obj\Debug\netcoreapp2.0\apitest.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\apitest\obj\Debug\netcoreapp2.0\apitest.AssemblyInfoInputs.cache
+C:\Users\alexc\Desktop\apitest\obj\Debug\netcoreapp2.0\apitest.AssemblyInfo.cs
+C:\Users\alexc\Desktop\apitest\obj\Debug\netcoreapp2.0\apitest.dll
+C:\Users\alexc\Desktop\apitest\obj\Debug\netcoreapp2.0\apitest.pdb
